@@ -1,0 +1,6 @@
+Rams 4 8 3 2 2 Redskins 5 6 5 3
+Packers 8 2 3 9 7 Bears 7 6 5 4
+Bengals 6 8 3 5 7 Browns 4 10 6 6
+Ravens 5 6 6 6 5 Steelers 7 5 6 4
+Jets 3 7 8 5 4 Patriots 8 3 5 6
+49ers 6 9 6 6 5 Seahawks 7 10 8 5

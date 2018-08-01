@@ -1,0 +1,8 @@
+Ohio_State 5 8 9 9 7 Kent_St 6 4 3 5
+Cincinnati 8 5 4 7 4 Toledo 9 3 5 4
+Missouri 8 6 5 5 6 Central_Florida 6 9 7 6
+Florida 3 9 5 6 8 Kentucky 7 5 5 4
+Rutgers 4 8 6 5 5 Penn_St 7 5 5 7
+Fresno_St 9 4 6 8 4 Nebraska 7 6 7 6
+Texas 6 7 5 6 9 UCLA 9 5 8 5
+South_Carolina 5 7 7 8 8 Georgia 8 7 8 4
